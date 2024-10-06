@@ -1,0 +1,5 @@
+nltk 
+gradio
+numpy 
+math
+matplotlib
