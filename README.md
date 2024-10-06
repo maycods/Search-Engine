@@ -30,13 +30,13 @@ Given a query we get as results documents in order of relevence based on selecte
 We can display all the generated normalized tokens of a given document with the "term per doc" option
 
 <p align="center">
-  <img width="50%" src="ri1.png" >
+  <img  src="ri1.png" >
 </p>
 
 We can select one of the queries dataset and Evaluate its performance with different retrieval models and visualize precision-recall curves.
 
 <p align="center">
-  <img width="50%" src="ri2.png" >
+  <img  src="ri2 .png" >
 </p>
 
 ## License 📜
